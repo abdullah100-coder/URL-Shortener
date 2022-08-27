@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156671898178",
+    "project_id": "url-shortner-14d09",
+    "storage_bucket": "url-shortner-14d09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156671898178:android:60f7b9431455cc87f573db",
+        "android_client_info": {
+          "package_name": "com.example.orange_toolz_url"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156671898178-ohefvp46ak71nslldncfmpf0bh1e88fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3UbqZ_WzVNFjVSggh1ihwkiLQ9d9dXXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156671898178-ohefvp46ak71nslldncfmpf0bh1e88fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
